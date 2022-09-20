@@ -1,21 +1,19 @@
 # Informações do Projeto
 `Como Criar Bons Hábitos`  
 
-Ciências da Computação PUC-Minas
+Ciências da Computação PUC-MINAS
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 ## Participantes
 
-......  PARTICIPANTES ......
-
 > Os membros do grupo são: 
-> - João Pedro Moura
-  - Lucas Galtieri
-  - Samuel Penido
-  -  Júlia Sebastião
-  - Alvaro Tavares
-  - Gabriel Carlos
+>  - João Pedro Moura
+>  - Lucas Galtieri
+>  - Samuel Penido
+>  - Júlia Sebastião
+>  - Alvaro Tavares
+>  - Gabriel Carlos
 
 # Estrutura do Documento
 
@@ -53,6 +51,7 @@ Ciências da Computação PUC-Minas
 
 
 # Introdução
+
 
 ## Problema
 
