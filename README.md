@@ -51,22 +51,17 @@ Ciências da Computação PUC-MINAS
 
 
 # Introdução
+>  A vida universitária e escolar demanda dos estudantes uma gestão de tempo e organização com os estudos. Levando em conta que aproximadamente 4% de toda a população >    do país sofre de TDAH ( transtorno do déficit de atenção com hiperatividade ) tornase ainda mais dificil o foco e organização com tarefas e estudos diários      >presentes na rotina de um universitario.
+>  Uma rotina organizada, com boa gestão de tempo traz para o estudante uma constância maior em seus estudos, melhor aprendizado e convívio com as matérias. 
+
 
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
+
+A desorganização e falta de gestão de tempo é um problema que afeta a vida da maioria das pessoas, pequenos atrasos, desvios de atenção e claro... redes sociais, podem te distrair por horas e passar em “um piscar de olhos”. Esses pequenos “atrasos” podem te tirar do objetivo por horas quando somadas no final do dia, causando assim uma falsa sensação de falta de tempo, causando estresse, cansaço e falta de produtividade.
+
 >
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -75,13 +70,16 @@ Ciências da Computação PUC-MINAS
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+
+> Tendo em vista a problemática, o projeto tem como objetivo facilitar o aprendizado e organização da rotina estudantil, sabemos o quão puxada a rotina de estudos pode >  ser, e para isso buscamos desenvolver uma plataforma que irá auxiliar na rotina e organização para melhor aprendizado.
+>
+>  Objetivos específicos :
+>  - Ajudar o estudante a se organizar melhor com seus horarios.
+>  -Desenvolver uma agenda virtual com lembretes e dicas.
+>  -Montar uma rotina e plano de estudo para o aluno.
+>  -Ajudar o estudante a se preparar de forma constante nos estudos, tornando a rotina constante, pórem leve.
+
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
