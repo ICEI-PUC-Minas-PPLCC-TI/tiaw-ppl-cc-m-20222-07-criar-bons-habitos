@@ -76,9 +76,10 @@ A desorganização e falta de gestão de tempo é um problema que afeta a vida d
 >
 >  Objetivos específicos :
 >  - Ajudar o estudante a se organizar melhor com seus horarios.
->  -Desenvolver uma agenda virtual com lembretes e dicas.
->  -Montar uma rotina e plano de estudo para o aluno.
->  -Ajudar o estudante a se preparar de forma constante nos estudos, tornando a rotina constante, pórem leve.
+>  - Desenvolver uma agenda virtual com lembretes e dicas.
+>  - Montar uma rotina e plano de estudo para o aluno.
+>  - Ajudar o estudante a se preparar de forma constante nos estudos, tornando a rotina constante, pórem leve.
+>  - Disciplina do aluno nos momentos de estudo com um cronograma único
 
 > 
 > **Links Úteis**:
