@@ -130,11 +130,10 @@ A desorganização e falta de gestão de tempo é um problema que afeta a vida d
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-1. **Álvaro** tem 22 anos, é um estudante de ciência da computação e não trabalha ainda. Demonstra dificuldade em conciliar tempo com relação às atividades acadêmicas que possui, perdendo a noção sobre prazos e quantidade de exercícios que tem que fazer. De tal forma, apresenta grande quantidade de ansiedade e estresse devido a uma má organização. Por isso, procura encontrar uma plataforma que consiga o ajudar a organizar seu tempo com relação aos conteúdos que tem que estudar e os compromissos que tem que cumprir.
+1. **Álvaro Tavares** tem 22 anos, é um estudante de ciência da computação e não trabalha ainda. Demonstra dificuldade em conciliar tempo com relação às atividades acadêmicas que possui, perdendo a noção sobre prazos e quantidade de exercícios que tem que fazer. De tal forma, apresenta grande quantidade de ansiedade e estresse devido a uma má organização. Por isso, procura encontrar uma plataforma que consiga o ajudar a organizar seu tempo com relação aos conteúdos que tem que estudar e os compromissos que tem que cumprir.
 (mapa de empatia - Alvaro)
 
-2. **Ana** tem 18 anos, é uma estudante de direito e não trabalha ainda. Apresenta dificuldade em conciliar a quantidade semanal de tempo que ela deve colocar sobre seus estudos com relação ao tempo para seus momentos de lazer. De tal forma, demonstra bastante insegurança e ansiedade sobre o que faz, para além de uma grande quantidade de estresse. Busca conseguir organizar seus horários para que seu estilo de vida se torne mais leve e saudável, porém ainda efetivo.
+2. **Ana Costa** tem 18 anos, é uma estudante de direito e não trabalha ainda. Apresenta dificuldade em conciliar a quantidade semanal de tempo que ela deve colocar sobre seus estudos com relação ao tempo para seus momentos de lazer. De tal forma, demonstra bastante insegurança e ansiedade sobre o que faz, para além de uma grande quantidade de estresse. Busca conseguir organizar seus horários para que seu estilo de vida se torne mais leve e saudável, porém ainda efetivo.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113465962/192101118-861cab81-b163-4bf6-8def-7bfc416c22eb.jpg" width="700">
 </p>
@@ -192,7 +191,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Fazer um quiz para conseguir obter informações sobre os horários e forma de se organizar | ALTA | 
-|RF-003| Organizar os horários de forma para ser a menor quantidade possível por dia   | MÉDIA |
+|RF-003| Organizar os horários de forma para ser a menor quantidade possível para ser feita por dia   | ALTA |
 |RF-004| Disponibilizar informações sobre métodos de melhorar a estilo de vida | BAIXA | 
 
 
