@@ -135,8 +135,9 @@ A desorganização e falta de gestão de tempo é um problema que afeta a vida d
 (mapa de empatia - Alvaro)
 
 2. **Ana** tem 18 anos, é uma estudante de direito e não trabalha ainda. Apresenta dificuldade em conciliar a quantidade semanal de tempo que ela deve colocar sobre seus estudos com relação ao tempo para seus momentos de lazer. De tal forma, demonstra bastante insegurança e ansiedade sobre o que faz, para além de uma grande quantidade de estresse. Busca conseguir organizar seus horários para que seu estilo de vida se torne mais leve e saudável, porém ainda efetivo.
-(mapa de empatia - Ana)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113465962/192101118-861cab81-b163-4bf6-8def-7bfc416c22eb.jpg" width="700">
+</p>
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
