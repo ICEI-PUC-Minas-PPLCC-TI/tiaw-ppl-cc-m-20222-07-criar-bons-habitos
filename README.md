@@ -185,15 +185,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-002| Fazer um quiz para conseguir obter informações sobre os horários e forma de se organizar | ALTA | 
+|RF-003| Organizar os horários de forma para ser a menor quantidade possível por dia   | MÉDIA |
+|RF-004| Disponibilizar informações sobre métodos de melhorar a estilo de vida | BAIXA | 
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O usuário deve conseguir utilizar a plataforma sem nenhum tipo de treinamento | ALTA | 
+|RNF-002| Deve ter uma interface fluida e eficiente | ALTA | 
+|RNF-003| Deve conseguir ser executado de forma adaptada tanto em computadores desktops quanto em dispositivos móveis como celulares e tablets | BAIXA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -223,16 +226,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| O desenvolvimento do site não pode ser delegado / terceirizado        |
+|02| O projeto deverá ser entregue até o final do semestre |
+|03| Não pode ser desenvolvido um módulo de backend        |
 
 
 # Projeto de Interface
