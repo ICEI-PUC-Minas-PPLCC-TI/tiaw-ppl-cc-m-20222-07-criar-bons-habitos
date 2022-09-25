@@ -60,7 +60,8 @@ Ciências da Computação PUC-MINAS
 
 
 
-A desorganização e falta de gestão de tempo é um problema que afeta a vida da maioria das pessoas, pequenos atrasos, desvios de atenção e claro... redes sociais, podem te distrair por horas e passar em “um piscar de olhos”. Esses pequenos “atrasos” podem te tirar do objetivo por horas quando somadas no final do dia, causando assim uma falsa sensação de falta de tempo, causando estresse, cansaço e falta de produtividade.
+> A desorganização e falta de gestão de tempo é um problema que afeta a vida da maioria das pessoas, pequenos atrasos, desvios de atenção e claro... redes sociais,
+> podem te distrair por horas e passar em “um piscar de olhos”. Esses pequenos “atrasos” podem te tirar do objetivo por horas quando somadas no final do dia, causando > assim uma falsa sensação de falta de tempo, causando estresse, cansaço e falta de produtividade.
 
 >
 > **Links Úteis**:
