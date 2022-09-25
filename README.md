@@ -104,15 +104,13 @@ Os membros do grupo são:
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Durante o processo de entendimento e elaboração do projeto, foi visto que muitos alunos da PUC, universidade com a qual foi utilizada como parâmetro, ficavam muito perdidos com suas atividades e prazos de entrega de trabalhos, e portanto ficavam sobrecarregados. De tal forma, foi elaborado uma pesquisa com alunos da universidade, constatando esse apecto como padrão entre a maioria dos estudante, principalmete observando o seu agravamento com a pandemia, posto que a grande maioria dos alunos do primeiro semestre terminou seu ensino médio sob as circunstâncias de ensino remoto, e isso afetou o compromisso que têm com sua tarejas, visto que na pandemia passaram muito tempo dentro de suas casas, e com poucas obrigações que poderiam ser feitas a qualquer momento sem um controle.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Dessa forma, nessa seção, serpa abordado uma compreensão mais complexa sobre o assunto, utilizando de métodos de entendimento sobre nosso público alvo, através da elaboração de Personas, e seus repectivos mapas de empatia, Histórias de Usuários, além de formas de estabelecer o que for obrigatório em nosso produto final, atraváes da estipulação de Requisitos, os funcionasi e não funcionas, e de Restrições impostas sobre sua execução.
 
 ## Personas e Mapas de Empatia
 
-1. **Álvaro Tavares** tem 22 anos, é um estudante de ciência da computação e não trabalha ainda. Demonstra dificuldade em conciliar tempo com relação às atividades acadêmicas que possui, perdendo a noção sobre prazos e quantidade de exercícios que tem que fazer. De tal forma, apresenta grande quantidade de ansiedade e estresse devido a uma má organização. Por isso, procura encontrar uma plataforma que consiga o ajudar a organizar seu tempo com relação aos conteúdos que tem que estudar e os compromissos que tem que cumprir.
+1. **Pedro Santos** tem 22 anos, é um estudante de ciência da computação e não trabalha ainda. Demonstra dificuldade em conciliar tempo com relação às atividades acadêmicas que possui, perdendo a noção sobre prazos e quantidade de exercícios que tem que fazer. De tal forma, apresenta grande quantidade de ansiedade e estresse devido a uma má organização. Por isso, procura encontrar uma plataforma que consiga o ajudar a organizar seu tempo com relação aos conteúdos que tem que estudar e os compromissos que tem que cumprir.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113465962/192163081-6bbde266-ea55-40de-becd-2c8f47bdfdc7.jpg" width="700">
 </p>
@@ -128,8 +126,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Pedro | Registrar minhas tarefas | Não esquecer de fazê-las |
-|Ana | Quero conseguir organizar meus horários para estudar durante o dia | Ter uma maior eficiência sem consumir todo o meu tempo |
+|Pedro | Registrar minhas atividades e meus trabalhos | Não esquecer de fazê-los |
+|Pedro | Organizar meu tempo de estudo | Otimizar meus estudos |
+|Ana | Conseguir organizar meus horários para estudar durante o dia | Ter uma maior eficiência sem consumir todo o meu tempo |
 
 ## Requisitos
 
@@ -142,7 +141,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Fazer um quiz para conseguir obter informações sobre os horários e forma de se organizar | ALTA | 
 |RF-003| Organizar os horários de forma para ser a menor quantidade possível para ser feita por dia   | ALTA |
-|RF-004| Disponibilizar informações sobre métodos de melhorar a estilo de vida | BAIXA | 
+|RF-004| Disponibilizar informações sobre métodos de melhorar a estilo de vida | MÉDIA | 
 
 
 ### Requisitos não Funcionais
@@ -153,28 +152,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Deve ter uma interface fluida e eficiente | ALTA | 
 |RNF-003| Deve conseguir ser executado de forma adaptada tanto em computadores desktops quanto em dispositivos móveis como celulares e tablets | BAIXA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
@@ -183,7 +160,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O desenvolvimento do site não pode ser delegado / terceirizado        |
 |02| O projeto deverá ser entregue até o final do semestre |
-|03| Não pode ser desenvolvido um módulo de backend        |
+|03| Não pode ser desenvolvido em um módulo de backend        |
 
 
 # Projeto de Interface
