@@ -7,13 +7,13 @@ Ciências da Computação PUC-MINAS
 
 ## Participantes
 
-> Os membros do grupo são: 
->  - João Pedro Moura
->  - Lucas Galtieri
->  - Samuel Penido
->  - Júlia Sebastião
->  - Alvaro Tavares
->  - Gabriel Carlos
+Os membros do grupo são: 
+- João Pedro Moura
+- Lucas Galtieri
+- Samuel Penido
+- Júlia Sebastião
+- Alvaro Tavares
+- Gabriel Carlos
 
 # Estrutura do Documento
 
@@ -113,7 +113,9 @@ Ciências da Computação PUC-MINAS
 ## Personas e Mapas de Empatia
 
 1. **Álvaro Tavares** tem 22 anos, é um estudante de ciência da computação e não trabalha ainda. Demonstra dificuldade em conciliar tempo com relação às atividades acadêmicas que possui, perdendo a noção sobre prazos e quantidade de exercícios que tem que fazer. De tal forma, apresenta grande quantidade de ansiedade e estresse devido a uma má organização. Por isso, procura encontrar uma plataforma que consiga o ajudar a organizar seu tempo com relação aos conteúdos que tem que estudar e os compromissos que tem que cumprir.
-(mapa de empatia - Alvaro)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113465962/192163081-6bbde266-ea55-40de-becd-2c8f47bdfdc7.jpg" width="700">
+</p>
 
 2. **Ana Costa** tem 18 anos, é uma estudante de direito e não trabalha ainda. Apresenta dificuldade em conciliar a quantidade semanal de tempo que ela deve colocar sobre seus estudos com relação ao tempo para seus momentos de lazer. De tal forma, demonstra bastante insegurança e ansiedade sobre o que faz, para além de uma grande quantidade de estresse. Busca conseguir organizar seus horários para que seu estilo de vida se torne mais leve e saudável, porém ainda efetivo.
 <p align="center">
@@ -126,19 +128,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+|Pedro | Registrar minhas tarefas | Não esquecer de fazê-las |
+|Ana | Quero conseguir organizar meus horários para estudar durante o dia | Ter uma maior eficiência sem consumir todo o meu tempo |
 
 ## Requisitos
 
