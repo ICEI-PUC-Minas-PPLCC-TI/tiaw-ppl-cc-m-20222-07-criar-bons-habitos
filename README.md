@@ -175,49 +175,22 @@ Assim sendo, nessa seção, será abordado a divisão de tarefas propostas e cum
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Durante o projeto, o grupo se redividiu em 2 duplas além de outras duas pessoas que fizeram seu trabalhos sozinhos.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+A divisão foi:
+- Dupla 1: João e Lucas → responsáveis pela elaboração do tópico Projeto de Interfaces, inlcuindo o uso de wireframes e fluxo do usuário.
+- Dupla 2: Júlia e Álvaro → responsáveis pela parte Especificação de Projetos, incluido fazer as pesquisas qualitativas e criar as personas.
+- Gabriel → responsável pela divisão e formatação da apresentação.
+- Samuel → responsável pela concepção da Introdução do documento, incluindo todos os seus tópicos iinternos.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+As ferramentas utilizadas pelo grupo na elaboração do trabalhor foram as listadas abaixo.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVPXoRt6Y=/ | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
-
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-07-criar-bons-habitos | 
+|Protótipo Interativo | MavelApp ou Figma | https://marvelapp.com/prototype/65f324d | 
 
 # **############## SPRINT 1 ACABA AQUI #############**
