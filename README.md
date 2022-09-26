@@ -162,53 +162,32 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O projeto deverá ser entregue até o final do semestre |
 |03| Não pode ser desenvolvido em um módulo de backend        |
 
-
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+A Home-Page:
+A nossa aplicação se dá num site, a Home-Page introduz as funcionalidades, aponta as vantagens de usar a nossa plataforma e introduz os alunos envolvidos. É a partir da home que se acessa as funcionalidades, mas antes o usuário precisa se logar ou então, se registrar caso não já não tenha um cadastro. É importante ressaltar que caso o usuário já esteja logado ele terá acesso direto ao ‘Painel de Controle’.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+O Painel de Controle:
+O painel de controle é a parte principal do site, é nele que o usuário adiciona suas matérias e tarefas. Essa etapa é a mais importante, pois é a partir das informações adicionadas pelo usuário que o cronograma de estudos será gerado. É no painel de controle que o usuário consegue saber sua progressão numa determinada matéria ou tarefa, através de um sistema visual de barras de progresso.
+
+A aba ‘Hoje’:
+A aba ‘Hoje’ é uma aba essencialmente de visualização. Toda a nossa aplicação parte do princípio de que a chave para não se deixar acumular muitas obrigações é a distribuição de uma determinada tarefa ao longo de seu prazo, realizando-a em pequenas partes diárias. Sendo assim, para que o aluno não se sinta sobrecarregado a aba hoje é uma das mais úteis, pois o aluno só terá que se preocupar com o que tem que ser feito naquele dia.
+
+O resto:
+O site conta com outras páginas auxiliares como o calendário, que mostra as atividades agendadas para todos os dias seguintes e a aba ajuda que auxilia o usuário a tirar máximo proveito das ferramentas do site.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+![FLUXO DO USUARIO](https://user-images.githubusercontent.com/42350002/192174095-225e06b4-64a0-4395-ac9d-77a9a0c8e86d.png)
 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+Protótipos do Design/Layout da nossa aplicação:
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![WIREFRAMES](https://user-images.githubusercontent.com/42350002/192174853-6f72714c-1f79-4999-bbb4-1a5aa4368104.png)
+
+Protótipo interativo: https://marvelapp.com/prototype/65f324d/screen/88816196
 
 
 # Metodologia
