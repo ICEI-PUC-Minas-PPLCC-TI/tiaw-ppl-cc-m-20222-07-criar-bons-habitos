@@ -51,56 +51,33 @@ Os membros do grupo são:
 
 
 # Introdução
->  A vida universitária e escolar demanda dos estudantes uma gestão de tempo e organização com os estudos. Levando em conta que aproximadamente 4% de toda a população >    do país sofre de TDAH ( transtorno do déficit de atenção com hiperatividade ) tornase ainda mais dificil o foco e organização com tarefas e estudos diários      >presentes na rotina de um universitario.
->  Uma rotina organizada, com boa gestão de tempo traz para o estudante uma constância maior em seus estudos, melhor aprendizado e convívio com as matérias. 
 
+A vida universitária e escolar demanda dos estudantes uma gestão de tempo e organização com os estudos. Levando em conta que aproximadamente 4% de toda a população do país sofre de TDAH ( transtorno do déficit de atenção com hiperatividade ) tornase ainda mais dificil o foco e organização com tarefas e estudos diários presentes na rotina de um universitario.
 
+Uma rotina organizada, com boa gestão de tempo traz para o estudante uma constância maior em seus estudos, melhor aprendizado e convívio com as matérias. 
 
 ## Problema
 
-
-
-> A desorganização e falta de gestão de tempo é um problema que afeta a vida da maioria das pessoas, pequenos atrasos, desvios de atenção e claro... redes sociais,
-> podem te distrair por horas e passar em “um piscar de olhos”. Esses pequenos “atrasos” podem te tirar do objetivo por horas quando somadas no final do dia, causando > assim uma falsa sensação de falta de tempo, causando estresse, cansaço e falta de produtividade.
-
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A desorganização e falta de gestão de tempo é um problema que afeta a vida da maioria das pessoas, pequenos atrasos, desvios de atenção e claro... redes sociais, podem te distrair por horas e passar em “um piscar de olhos”. Esses pequenos “atrasos” podem te tirar do objetivo por horas quando somadas no final do dia, causando assim uma falsa sensação de falta de tempo, causando estresse, cansaço e falta de produtividade.
 
 ## Objetivos
 
+Tendo em vista a problemática, o projeto tem como objetivo facilitar o aprendizado e organização da rotina estudantil, sabemos o quão puxada a rotina de estudos pode ser, e para isso buscamos desenvolver uma plataforma que irá auxiliar na rotina e organização para melhor aprendizado.
 
-
-> Tendo em vista a problemática, o projeto tem como objetivo facilitar o aprendizado e organização da rotina estudantil, sabemos o quão puxada a rotina de estudos pode >  ser, e para isso buscamos desenvolver uma plataforma que irá auxiliar na rotina e organização para melhor aprendizado.
->
->  Objetivos específicos :
->  - Ajudar o estudante a se organizar melhor com seus horarios.
->  - Desenvolver uma agenda virtual com lembretes e dicas.
->  - Montar uma rotina e plano de estudo para o aluno.
->  - Ajudar o estudante a se preparar de forma constante nos estudos, tornando a rotina constante, pórem leve.
->  - Disciplina do aluno nos momentos de estudo com um cronograma único
-
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos específicos :
+- Ajudar o estudante a se organizar melhor com seus horarios.
+- Desenvolver uma agenda virtual com lembretes e dicas.
+- Montar uma rotina e plano de estudo para o aluno.
+- Ajudar o estudante a se preparar de forma constante nos estudos, tornando a rotina constante, pórem leve.
+- Disciplina do aluno nos momentos de estudo com um cronograma único.
 
 ## Justificativa
 
-> De acordo com os dados fornecidos pelo MEC (Ministério da Educação) o brasil tem mais de 6,5 milhões de universitários. Levando como exemplo o curso de direito que   > hoje é o curso com mais alunos em todo o brasil, apenas 31,4% dos alunos que participaram da prova de Exame da Ordem Unificado 2021/2 (EOU) promovido pelo Conselho  > Federal da OAB foram aprovados (maior percentual de aprovação da história). Acreditamos que para tal feito ser conquistado pelo estudante foi-se necessário uma
-> boa organização e disciplina em uma rotina de estudos.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+De acordo com os dados fornecidos pelo MEC (Ministério da Educação) o brasil tem mais de 6,5 milhões de universitários. Levando como exemplo o curso de direito que hoje é o curso com mais alunos em todo o brasil, apenas 31,4% dos alunos que participaram da prova de Exame da Ordem Unificado 2021/2 (EOU) promovido pelo Conselho Federal da OAB foram aprovados (maior percentual de aprovação da história). Acreditamos que para tal feito ser conquistado pelo estudante foi-se necessário uma boa organização e disciplina em uma rotina de estudos.
 
 ## Público-Alvo
 
-> Embora a organização seja algo benéfico para todas as aréas da vida e para todas as pessoas em busca de seus objetivos, nosso público alvo com esse trabalho são em  > específico os universitários de todas as faixas etárias e géneros que se encontram com dificuldade em organizar uma rotina de estudos por conta da falta de tempo,    > costume e até disciplina.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Embora a organização seja algo benéfico para todas as aréas da vida e para todas as pessoas em busca de seus objetivos, nosso público alvo com esse trabalho são em específico os universitários de todas as faixas etárias e géneros que se encontram com dificuldade em organizar uma rotina de estudos por conta da falta de tempo, costume e até disciplina.
  
 # Especificações do Projeto
 
@@ -192,23 +169,9 @@ Protótipo interativo: https://marvelapp.com/prototype/65f324d/screen/88816196
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para melhor elaboração do projeto, o grupo se utilizou de diversos encontros, que ocorreram através de "chamadas" no aplicativo Discord. Dessa forma, foi preenchido a idealização do trabalho, pelo processo de Design Thinking, em que todos os membro participaram, dando suas visões e opiniões sobre o problema a ser resolvido. Ademais, também foram observadas as etapas - o caminho - que serão necessárias para formular a solução, seguindo as restrições impostas no trabalho e as capacidades (habilidades) de cada um dos integrantes. Para tal, várias reuniões foram, para que fossem observados os avançoes de cada participante, a cada 2 dias, ou seja, eram feitas em dias alternados, com a participação de todos.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Assim sendo, nessa seção, será abordado a divisão de tarefas propostas e cumprídas pelos integrantes do grupo, assim como será apresentado as ferramentas utilizadas na concepção do trabalho.
 
 ## Divisão de Papéis
 
