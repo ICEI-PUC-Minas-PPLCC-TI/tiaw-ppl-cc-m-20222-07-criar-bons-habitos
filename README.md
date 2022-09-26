@@ -139,8 +139,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Fazer um questionário para conseguir obter informações sobre os horários e forma de se organizar | ALTA | 
-|RF-003| Organizar os horários de forma para ser a menor quantidade possível para ser feita por dia   | ALTA |
+|RF-002| Organizar os horários de forma para ser a menor quantidade possível para ser feita por dia | ALTA | 
+|RF-003| Fazer um questionário para conseguir obter informações sobre os horários e forma de se organizar  | MÉDIA |
 |RF-004| Disponibilizar informações sobre métodos de melhorar a estilo de vida | MÉDIA | 
 
 
