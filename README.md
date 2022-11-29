@@ -181,7 +181,7 @@ A divisão foi:
 - Dupla 1: João e Lucas → responsáveis pela elaboração do tópico Projeto de Interfaces, inlcuindo o uso de wireframes e fluxo do usuário.
 - Dupla 2: Júlia e Álvaro → responsáveis pela parte Especificação de Projetos, incluido fazer as pesquisas qualitativas e criar as personas.
 - Gabriel → responsável pela divisão e formatação da apresentação.
-- Samuel → responsável pela concepção da Introdução do documento, incluindo todos os seus tópicos iinternos.
+- Samuel → responsável pela concepção da Introdução do documento, incluindo todos os seus tópicos internos.
 
 ## Ferramentas
 
@@ -194,3 +194,10 @@ As ferramentas utilizadas pelo grupo na elaboração do trabalhor foram as lista
 |Protótipo Interativo | MavelApp ou Figma | https://marvelapp.com/prototype/65f324d | 
 
 # **############## SPRINT 1 ACABA AQUI #############**
+
+## Referências
+
+A lista a seguir traz as referências utilizadas nesse trabalho. são elas :
+
+- http://portal.mec.gov.br/component/tags/tag/32044-censo-da-educacao-superior#:~:text=O%20Brasil%20tem%206%2C5,173%20mil%20na%20p%C3%B3s%2Dgradua%C3%A7%C3%A3o.
+- 
