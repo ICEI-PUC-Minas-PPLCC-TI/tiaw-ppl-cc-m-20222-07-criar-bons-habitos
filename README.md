@@ -195,6 +195,10 @@ As ferramentas utilizadas pelo grupo na elaboração do trabalhor foram as lista
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
+## Implementação da Solução
+
+## Avaliação da Solução
+
 ## Referências
 
 A lista a seguir traz as referências utilizadas nesse trabalho. são elas :
