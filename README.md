@@ -12,7 +12,6 @@ Os membros do grupo são:
 - Lucas Galtieri
 - Samuel Penido
 - Júlia Sebastião
-- Alvaro Tavares
 - Gabriel Carlos
 
 # Estrutura do Documento
@@ -39,13 +38,11 @@ Os membros do grupo são:
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
@@ -79,6 +76,7 @@ De acordo com os dados fornecidos pelo MEC (Ministério da Educação) o brasil 
 
 Embora a organização seja algo benéfico para todas as aréas da vida e para todas as pessoas em busca de seus objetivos, nosso público alvo com esse trabalho são em específico os universitários de todas as faixas etárias e géneros que se encontram com dificuldade em organizar uma rotina de estudos por conta da falta de tempo, costume e até disciplina.
  
+
 # Especificações do Projeto
 
 Durante o processo de entendimento e elaboração do projeto, foi visto que muitos alunos da PUC, universidade com a qual foi utilizada como parâmetro, ficavam muito perdidos com suas atividades e prazos de entrega de trabalhos, e portanto ficavam sobrecarregados. De tal forma, foi elaborado uma pesquisa com alunos da universidade, constatando esse apecto como padrão entre a maioria dos estudante, principalmete observando o seu agravamento com a pandemia, posto que a grande maioria dos alunos do primeiro semestre terminou seu ensino médio sob as circunstâncias de ensino remoto, e isso afetou o compromisso que têm com sua tarejas, visto que na pandemia passaram muito tempo dentro de suas casas, e com poucas obrigações que poderiam ser feitas a qualquer momento sem um controle.
@@ -115,11 +113,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Organizar os horários de forma para ser a menor quantidade possível para ser feita por dia | ALTA | 
-|RF-003| Fazer um questionário para conseguir obter informações sobre os horários e forma de se organizar  | MÉDIA |
-|RF-004| Disponibilizar informações sobre métodos de melhorar a estilo de vida | MÉDIA | 
-
+|RF-001| Fazer um questionário para conseguir obter informações sobre os horários e forma de se organizar  | MÉDIA |
+|RF-002| Cadastrar as tarefas a serem organizadas | ALTA |
+|RF-003| Mostrar as terefas que foram cadastradas | ALTA |
+|RF-004| Disponibilizar na home as tarefas que devem ser executadas no dia | MÉDIA | 
+|RF-005| Possibilitar a alteração de dados já cadastrados em um perfil | MÉDIA | 
+|RF-006| Apresentar um lembrete ao usuário de suas tarefas cadastradas | ALTA | 
+|RF-007| Apresentar uma calendário que mostre as datas de entrega conforme elas sejam salvas de forma dinâmica | BAIXA | 
+|RF-008| Mostrar os resultados obtidos no questionário feito | MÉDIA | 
+|RF-009| Possibilitar uma pesquisa seguindo o nome cadastrado na tarefa | MÉDIA | 
+|RF-010| Poaaibilitar uma pesquisa seguindo a matéria cadastrada na tarefa | MÉDIA | 
 
 ### Requisitos não Funcionais
 
@@ -139,6 +142,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O projeto deverá ser entregue até o final do semestre |
 |03| Não pode ser desenvolvido em um módulo de backend        |
 
+
 # Projeto de Interface
 
 A Home-Page:
@@ -156,7 +160,6 @@ O site conta com outras páginas auxiliares como o calendário, que mostra as at
 ## User Flow
 
 ![FLUXO DO USUARIO](https://user-images.githubusercontent.com/42350002/192174095-225e06b4-64a0-4395-ac9d-77a9a0c8e86d.png)
-
 
 ## Wireframes
 
@@ -179,7 +182,7 @@ Durante o projeto, o grupo se redividiu em 2 duplas além de outras duas pessoas
 
 A divisão foi:
 - Dupla 1: João e Lucas → responsáveis pela elaboração do tópico Projeto de Interfaces, inlcuindo o uso de wireframes e fluxo do usuário.
-- Dupla 2: Júlia e Álvaro → responsáveis pela parte Especificação de Projetos, incluido fazer as pesquisas qualitativas e criar as personas.
+- Dupla 2: Júlia e Álvaro* → responsáveis pela parte Especificação de Projetos, incluido fazer as pesquisas qualitativas e criar as personas.
 - Gabriel → responsável pela divisão e formatação da apresentação.
 - Samuel → responsável pela concepção da Introdução do documento, incluindo todos os seus tópicos internos.
 
@@ -193,11 +196,83 @@ As ferramentas utilizadas pelo grupo na elaboração do trabalhor foram as lista
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-07-criar-bons-habitos | 
 |Protótipo Interativo | MavelApp ou Figma | https://marvelapp.com/prototype/65f324d | 
 
-# **############## SPRINT 1 ACABA AQUI #############**
+## Controle de Versão
 
-## Implementação da Solução
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório `upstream`.
 
-## Avaliação da Solução
+O projeto segue a seguinte convenção para o nome de branchs:
+ 
+- `master`: versão estável já testada do software
+- `unstable`: versão já testada do software, porém instável
+- `testing`: versão em testes do software
+- `dev`: versão de desenvolvimento do software
+ 
+Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
+
+- `bugfix`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
+
+
+# Projeto da Solução
+
+## Tecnologias Utilizadas
+
+| TIPO | NOME |
+|------|------|
+| Linguagem de marcação | HTML |
+| Linguagem de estilo | CSS |
+| Linguagem de programação | JavaScript |
+| Framework | Bootstrap |
+| Biblioteca | jQuery |
+| IDE | Visual Studio Code |
+| Versionamento de código | Git |
+| Controle de versão compartilhado | GitHub |
+| Hospedagem | GitHub Pages |
+
+## Arquitetura da solução
+
+......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+
+> Inclua um diagrama da solução e descreva os módulos e as tecnologias
+> que fazem parte da solução. Discorra sobre o diagrama.
+> 
+> **Exemplo do diagrama de Arquitetura**:
+> 
+> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+
+
+# Avaliação da Aplicação
+
+## Plano de Testes
+
+| ID | CENÁRIO | REQUISITO RELACIONADO |
+|----|---------|-----------------------|
+| 01 | `Quiz` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-001 |
+| 02 | `Cadastro de tarefas` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-002 |
+| 03 | `Apresentação de terefas` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-003 |
+| 04 | `Tela "HOJE"` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-004 |
+| 05 | `Editar Perfil` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-005 |
+| 06 | `Apresentaçã de lembretes` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-006 |
+| 07 | `Apresentação de um calendário` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-007 |
+| 08 | `Apresentação resultado do quiz` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-008 |
+| 09 | `Pesquisa (filtro) por tarefa` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-009 |
+| 10 | `Pesquisa (filtro) por matéria` <br><br> Passo a passo: <br> `1.` ---- <br> `2.` ---- <br> `3.` ---- <br> `4.` ---- <br><br> Após clicar no botão. | RF-010 |
+
+## Registros de Testes
+
+| ID | REQUISITO RELACIONADO | RESULTADO OBTIDO |
+|----|-----------------------|------------------|
+| 01 | RF-001 | Página Funcioanal |
+| 02 | RF-002 | Página Funcioanal |
+| 03 | RF-003 | Página Funcioanal |
+| 04 | RF-004 | Página Funcioanal |
+| 05 | RF-005 | Página Funcioanal |
+| 06 | RF-006 | Página Funcioanal |
+| 07 | RF-007 | Página Funcioanal |
+| 08 | RF-008 | Página Funcioanal |
+| 09 | RF-009 | Página Funcioanal |
+| 10 | RF-010 | Página Funcioanal |
 
 ## Referências
 
