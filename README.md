@@ -263,16 +263,16 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 
 | ID | REQUISITO RELACIONADO | RESULTADO OBTIDO |
 |----|-----------------------|------------------|
-| 01 | RF-001 | Página Funcioanal |
-| 02 | RF-002 | Página Funcioanal |
-| 03 | RF-003 | Página Funcioanal |
-| 04 | RF-004 | Página Funcioanal |
-| 05 | RF-005 | Página Funcioanal |
-| 06 | RF-006 | Página Funcioanal |
-| 07 | RF-007 | Página Funcioanal |
-| 08 | RF-008 | Página Funcioanal |
-| 09 | RF-009 | Página Funcioanal |
-| 10 | RF-010 | Página Funcioanal |
+| 01 | RF-001 | Página Funcional |
+| 02 | RF-002 | Página Funcional |
+| 03 | RF-003 | Página Funcional |
+| 04 | RF-004 | Página Funcional |
+| 05 | RF-005 | Página Funcional |
+| 06 | RF-006 | Página Funcional |
+| 07 | RF-007 | Página Funcional |
+| 08 | RF-008 | Página Funcional |
+| 09 | RF-009 | Página Funcional |
+| 10 | RF-010 | Página Funcional |
 
 ## Referências
 
